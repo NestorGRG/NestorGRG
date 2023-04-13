@@ -19,6 +19,7 @@ I am PhD Student in Computational Chemistry
 <div>
   
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://gitlab.com/uploads/-/system/project/avatar/470007/ase256.png?width=64" title="ASE" alt="ASE" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
   <img src="https://fullforms.com/images/image/Fortran_2838.png" title="Fortran" alt="Fortran" width="40" height="40"/>&nbsp;
   <img src="https://images.exxactcorp.com/CMS/landing-page/resource-center/supported-software/logo/Quantum-Chemistry/Gaussian.png" title="Gaussian" alt="Gaussian" width="40" height="40"/>&nbsp;
