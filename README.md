@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NestorGRG
+# 👋 Hi, I’m @NestorGRG
 - 👀 I’m interested in computational chemestry 
 - 🌱 I’m currently learning photocatalisys
 - 📫 How to reach me nestorgarcia-romeral@ub.edu
