@@ -7,6 +7,7 @@ I am PhD Student in Computational Chemistry
 - 👀 I’m interested in Computational Chemistry 
 - 🌱 I’m currently doing my PhD thesis in Computational Chemistry at Univeristy of Barcelona
 - 📫 How to reach me: nestorgarcia-romeral@ub.edu
+- <img src="https://orcid.org/assets/vectors/orcid.logo.icon.svg" title="ORCID" alt="ORCID"width="40" height="40"/>&nbsp; https://orcid.org/my-orcid?orcid=0000-0003-3129-3697
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
