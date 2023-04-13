@@ -1,6 +1,7 @@
 
 <h1 align="center">👋 Hi, I'm Néstor García-Romeral</h1>
 <h3 align="center">Computational chemist</h3>
+
 - 👀 I’m interested in Computational Chemistry 
 - 🌱 I’m currently learning Computational Chemistry at Univeristy of Barcelona
 - 📫 How to reach me: nestorgarcia-romeral@ub.edu
