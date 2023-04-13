@@ -7,13 +7,13 @@ I am PhD Student in Computational Chemistry
 - 👀 I’m interested in Computational Chemistry 
 - 🌱 I’m currently doing my PhD thesis in Computational Chemistry at Univeristy of Barcelona
 - 📫 How to reach me: nestorgarcia-romeral@ub.edu
-- <a href="https://orcid.org/my-orcid?orcid=0000-0003-3129-3697" target="blank"><img align="center" src="https://orcid.org/assets/vectors/orcid.logo.icon.svg" alt="Nestor-Garcia-Romeral" height="40" width="40" /></a> 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/néstor-garcía-romeral" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="néstor-garcía-romeral" height="40" width="40" /></a>
 <a href="https://twitter.com/ngarciaromeral" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-logo-vector-png-clipart-1.png" alt="@ngarciaromeral" height="40" width="40" /></a>
 <a href="https://www.researchgate.net/profile/Nestor-Garcia-Romeral" target="blank"><img align="center" src="https://user-images.githubusercontent.com/7831701/36112854-ee5d53d2-0ff8-11e8-84b5-901f6099eba0.png" alt="Nestor-Garcia-Romeral" height="40" width="40" /></a>
+<a href="https://orcid.org/my-orcid?orcid=0000-0003-3129-3697" target="blank"><img align="center" src="https://orcid.org/assets/vectors/orcid.logo.icon.svg" alt="Nestor-Garcia-Romeral" height="40" width="40" /></a> 
 </p>
 
 ### 🖥️: Languages and Computational Tools :
