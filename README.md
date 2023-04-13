@@ -5,7 +5,7 @@
 ### :technologist: About Me :
 I am PhD Student in Computational Chemistry
 - 👀 I’m interested in Computational Chemistry 
-- 🌱 I’m currently learning Computational Chemistry at Univeristy of Barcelona
+- 🌱 I’m currently doing my PhD thesis in Computational Chemistry at Univeristy of Barcelona
 - 📫 How to reach me: nestorgarcia-romeral@ub.edu
 
 <h3 align="left">Connect with me:</h3>
