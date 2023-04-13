@@ -24,6 +24,7 @@ I am PhD Student in Computational Chemistry
   <img src="https://images.exxactcorp.com/CMS/landing-page/resource-center/supported-software/logo/Quantum-Chemistry/Gaussian.png" title="Gaussian" alt="Gaussian" width="40" height="40"/>&nbsp;
   <img src="https://th.bing.com/th/id/R.f6b2a2100c39310a17475b80484efc2f?rik=ldho2l2dUWInfw&riu=http%3a%2f%2f1.bp.blogspot.com%2f-pt0xFc8md2c%2fVO-tnWf2_SI%2fAAAAAAAAFP4%2ffOXOFilj9F8%2fs1600%2favogadro.png&ehk=cgh%2bp%2fMp607QO9pIs6F0CMLgojPqQhBrpgvbWg4sOps%3d&risl=&pid=ImgRaw&r=0" title="Avogadro" alt="Avogadro" width="40" height="40"/>&nbsp;
   <img src="https://cc.dipc.org/computing_resources/software/applications/vasp/overview/images/vasp-logo.png" title="VASP" alt="VASP" width="50" height="40"/>&nbsp;
+    <img src="https://fhi-aims.org/uploads/images/FHI-aims-logo.png" title="FHI-AIMS" alt="FHI-AIMS" width="50" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
-  <img src="https://ma.issp.u-tokyo.ac.jp/wp-content/uploads/sites/3/2018/02/image_mini-2-3.png" title="VESTA" alt="VESTA" width="50" height="40"/>&nbsp;
+  <img src="https://ma.issp.u-tokyo.ac.jp/wp-content/uploads/sites/3/2018/02/image_mini-2-3.png" title="VESTA" alt="VESTA" width="40" height="40"/>&nbsp;
 </div>
