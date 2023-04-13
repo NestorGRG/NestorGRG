@@ -20,7 +20,7 @@ I am PhD Student in Computational Chemistry
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
   <img src="https://fullforms.com/images/image/Fortran_2838.png" title="Fortran" alt="Fortran" width="40" height="40"/>&nbsp;
   <img src="https://images.exxactcorp.com/CMS/landing-page/resource-center/supported-software/logo/Quantum-Chemistry/Gaussian.png" title="Gaussian" alt="Gaussian" width="40" height="40"/>&nbsp;
-  <img src="https://th.bing.com/th/id/R.da0022b3ba9eee296b99650a213e3085?rik=d2Mo8OIVXmn%2bfA&riu=http%3a%2f%2fwww.downxia.com%2fuploadfiles%2f2020%2f0521%2f20200521100208100.png&ehk=Sm1nDIe7mn6Lal%2bYTT6KW57N8mzdsC8fOKfTzzGTwu4%3d&risl=&pid=ImgRaw&r=0" width="40" height="40"/>&nbsp;
   <img src="https://th.bing.com/th/id/R.f6b2a2100c39310a17475b80484efc2f?rik=ldho2l2dUWInfw&riu=http%3a%2f%2f1.bp.blogspot.com%2f-pt0xFc8md2c%2fVO-tnWf2_SI%2fAAAAAAAAFP4%2ffOXOFilj9F8%2fs1600%2favogadro.png&ehk=cgh%2bp%2fMp607QO9pIs6F0CMLgojPqQhBrpgvbWg4sOps%3d&risl=&pid=ImgRaw&r=0" title="Avogadro" alt="Avogadro" width="40" height="40"/>&nbsp;
-
+  <img src="" title="VASP" alt="VASP" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
 </div>
