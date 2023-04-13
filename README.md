@@ -11,7 +11,8 @@ I am PhD Student in Computational Chemistry
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/néstor-garcía-romeral" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="néstor-garcía-romeral" height="40" width="40" /></a>
-  <a href="https://twitter.com/ngarciaromeral" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" alt="@ngarciaromeral" height="40" width="40" /></a>
+<a href="https://twitter.com/ngarciaromeral" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" alt="@ngarciaromeral" height="40" width="40" /></a>
+<a href="https://www.researchgate.net/profile/Nestor-Garcia-Romeral" target="blank"><img align="center" src="https://user-images.githubusercontent.com/7831701/36112854-ee5d53d2-0ff8-11e8-84b5-901f6099eba0.png" alt="@ngarciaromeral" height="40" width="40" /></a>
 </p>
 
 ### 🖥️: Languages and Computational Tools :
