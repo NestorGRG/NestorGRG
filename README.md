@@ -16,7 +16,7 @@ I am PhD Student in Computational Chemistry
 <a href="https://orcid.org/my-orcid?orcid=0000-0003-3129-3697" target="blank"><img align="center" src="https://orcid.org/assets/vectors/orcid.logo.icon.svg" alt="Nestor-Garcia-Romeral" height="40" width="40" /></a> 
 </p>
 
-### 🖥️: Languages and Computational Tools :
+### 🖥️ Languages and Computational Tools :
 <div>
   
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
