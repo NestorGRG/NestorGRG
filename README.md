@@ -20,7 +20,9 @@ I am PhD Student in Computational Chemistry
   
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://gitlab.com/uploads/-/system/project/avatar/470007/ase256.png?width=64" title="ASE" alt="ASE" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
   <img src="https://fullforms.com/images/image/Fortran_2838.png" title="Fortran" alt="Fortran" width="40" height="40"/>&nbsp;
   <img src="https://images.exxactcorp.com/CMS/landing-page/resource-center/supported-software/logo/Quantum-Chemistry/Gaussian.png" title="Gaussian" alt="Gaussian" width="40" height="40"/>&nbsp;
   <img src="https://th.bing.com/th/id/R.f6b2a2100c39310a17475b80484efc2f?rik=ldho2l2dUWInfw&riu=http%3a%2f%2f1.bp.blogspot.com%2f-pt0xFc8md2c%2fVO-tnWf2_SI%2fAAAAAAAAFP4%2ffOXOFilj9F8%2fs1600%2favogadro.png&ehk=cgh%2bp%2fMp607QO9pIs6F0CMLgojPqQhBrpgvbWg4sOps%3d&risl=&pid=ImgRaw&r=0" title="Avogadro" alt="Avogadro" width="40" height="40"/>&nbsp;
