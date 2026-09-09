@@ -31,9 +31,9 @@ I develop and apply first-principles (DFT, Beyond-DFT) and Machine Learning meth
 <a href="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/vscode/vscode-original.svg" height="40" alt="VSCode" /></a>
 <a href="https://camo.githubusercontent.com/ba795209272f396830ef2fb15f6835ad236466dffa2bb6fc17223d070b8ee033/68747470733a2f2f6d612e697373702e752d746f6b796f2e61632e6a702f77702d636f6e74656e742f75706c6f6164732f73697465732f332f323031382f30322f696d6167655f6d696e692d322d332e706e67"><img src="https://camo.githubusercontent.com/ba795209272f396830ef2fb15f6835ad236466dffa2bb6fc17223d070b8ee033/68747470733a2f2f6d612e697373702e752d746f6b796f2e61632e6a702f77702d636f6e74656e742f75706c6f6164732f73697465732f332f323031382f30322f696d6167655f6d696e692d322d332e706e67" height="40" alt="VESTA" /></a>
 
-**Materials modelling & DFT codes:** VASP · FHI-AIMS · Gaussian
-**Python stack:** ASE · Pandas · Matplotlib
-**Visualization:** Avogadro
+**Materials modelling & DFT codes:** VASP · FHI-AIMS 
+**Python stack:** ASE · Pandas · Matplotlib · SciPy 
+**Visualization:** VESTA, ASE, iRASPA
 
 ---
 
