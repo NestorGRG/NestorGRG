@@ -11,16 +11,6 @@ I develop and apply first-principles DFT and Machine Learning methods to underst
 
 ---
 
-### 🖥️ Featured projects
-
-| Repo | Description |
-|---|---|
-| [heterostructures-TiO2-MXene](https://github.com/NestorGRG/heterostructures-TiO2-MXene) | Builds 0D/2D TiO₂ nanoparticle–MXene heterostructure POSCARs for DFT calculations |
-| [Density-of-States-for-FHI-AIMS](https://github.com/NestorGRG/Density-of-States-for-FHI-AIMS) | Plots atom/orbital-projected DOS from FHI-AIMS output |
-| [Density-of-States-for-VASP](https://github.com/NestorGRG/Density-of-States-for-VASP) | Plots atom/orbital-projected DOS from VASP output |
-
----
-
 ### 🛠️ Languages & Computational Tools
 
 <a href="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/python/python-original.svg" height="40" alt="Python" /></a>
