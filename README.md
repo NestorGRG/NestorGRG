@@ -2,12 +2,11 @@
 
 ### Computational Chemist | Postdoctoral Researcher, University of Barcelona
 
-I develop and apply first-principles (DFT, Beyond-DFT) and Machine Learning methods to understand and design **2D materials**, with a focus on **MXenes** — their electronic structure, magnetism, surface chemistry, and heterostructures/composites.
+I develop and apply first-principles DFT and Machine Learning methods to understand and design **2D materials**, with a focus on **MXenes** — their electronic structure, magnetism, surface chemistry, and heterostructures/composites.
 
-- 🔬 PhD in Physical Chemistry (Cum Laude), Universitat de Barcelona — *Modeling of MXene-Based Materials: From 2D Heterostructures to 0D Flakes*
+- 🔬 PhD in Physical Chemistry, Universitat de Barcelona — *Modeling of MXene-Based Materials: From 2D Heterostructures to 0D Flakes*
 - 🧪 Currently working on Machine Learning Force Fields (MLFFs) for large-scale, non-periodic simulations of MXene nanostructures
 - 📄 9 peer-reviewed publications (4 journal covers) — [Google Scholar](https://scholar.google.com/citations?user=rllMbLEAAAAJ&hl=en) · [ORCID](https://orcid.org/0000-0003-3129-3697)
-- 🌍 Research stay at Università degli Studi di Milano-Bicocca (Prof. G. Pacchioni, Dr. G. Di Liberto)
 - 📫 Reach me at nestorgarcia-romeral@ub.edu
 
 ---
