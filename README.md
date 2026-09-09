@@ -34,7 +34,7 @@ I develop and apply first-principles DFT and Machine Learning methods to underst
 
 **Python stack:** ASE · Pandas · Matplotlib · SciPy 
 
-**Visualization:** VESTA, ASE, iRASPA
+**Visualization:** VESTA · ASE · iRASPA
 
 ---
 
