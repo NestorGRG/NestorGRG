@@ -1,35 +1,45 @@
+# 👋 Hi, I'm Néstor García-Romeral
 
-<h1 align="center">👋 Hi, I'm Néstor García-Romeral</h1>
-<h3 align="center">Computational chemist</h3>
+### Computational Chemist | Postdoctoral Researcher, University of Barcelona
 
-### :technologist: About Me :
-I am PhD Student in Computational Chemistry
-- 👀 I’m interested in Computational Chemistry 
-- 🌱 I’m currently doing my PhD thesis in Computational Chemistry at Univeristy of Barcelona
-- 📫 How to reach me: nestorgarcia-romeral@ub.edu
+I develop and apply first-principles (DFT, Beyond-DFT) and Machine Learning methods to understand and design **2D materials**, with a focus on **MXenes** — their electronic structure, magnetism, surface chemistry, and heterostructures/composites.
 
-<h3 align="left"> 📞 Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/néstor-garcía-romeral" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="néstor-garcía-romeral" height="40" width="40" /></a>
-<a href="https://twitter.com/ngarciaromeral" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-logo-vector-png-clipart-1.png" alt="@ngarciaromeral" height="40" width="40" /></a>
-<a href="https://www.researchgate.net/profile/Nestor-Garcia-Romeral" target="blank"><img align="center" src="https://user-images.githubusercontent.com/7831701/36112854-ee5d53d2-0ff8-11e8-84b5-901f6099eba0.png" alt="Nestor-Garcia-Romeral" height="40" width="40" /></a>
-<a href="https://orcid.org/my-orcid?orcid=0000-0003-3129-3697" target="blank"><img align="center" src="https://orcid.org/assets/vectors/orcid.logo.icon.svg" alt="Nestor-Garcia-Romeral" height="40" width="40" /></a> 
-</p>
+- 🔬 PhD in Physical Chemistry (Cum Laude), Universitat de Barcelona — *Modeling of MXene-Based Materials: From 2D Heterostructures to 0D Flakes*
+- 🧪 Currently working on Machine Learning Force Fields (MLFFs) for large-scale, non-periodic simulations of MXene nanostructures
+- 📄 9 peer-reviewed publications (4 journal covers) — [Google Scholar](https://scholar.google.com/citations?user=rllMbLEAAAAJ&hl=en) · [ORCID](https://orcid.org/0000-0003-3129-3697)
+- 🌍 Research stay at Università degli Studi di Milano-Bicocca (Prof. G. Pacchioni, Dr. G. Di Liberto)
+- 📫 Reach me at nestorgarcia-romeral@ub.edu
 
-### 🖥️ Languages and Computational Tools :
-<div>
-  
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://gitlab.com/uploads/-/system/project/avatar/470007/ase256.png?width=64" title="ASE" alt="ASE" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
-  <img src="https://avatars.githubusercontent.com/u/612230?s=200&v=4" title="lxml" alt="lxml" width="50" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
-  <img src="https://fullforms.com/images/image/Fortran_2838.png" title="Fortran" alt="Fortran" width="40" height="40"/>&nbsp;
-  <img src="https://images.exxactcorp.com/CMS/landing-page/resource-center/supported-software/logo/Quantum-Chemistry/Gaussian.png" title="Gaussian" alt="Gaussian" width="40" height="40"/>&nbsp;
-  <img src="https://th.bing.com/th/id/R.f6b2a2100c39310a17475b80484efc2f?rik=ldho2l2dUWInfw&riu=http%3a%2f%2f1.bp.blogspot.com%2f-pt0xFc8md2c%2fVO-tnWf2_SI%2fAAAAAAAAFP4%2ffOXOFilj9F8%2fs1600%2favogadro.png&ehk=cgh%2bp%2fMp607QO9pIs6F0CMLgojPqQhBrpgvbWg4sOps%3d&risl=&pid=ImgRaw&r=0" title="Avogadro" alt="Avogadro" width="40" height="40"/>&nbsp;
-  <img src="https://cc.dipc.org/computing_resources/software/applications/vasp/overview/images/vasp-logo.png" title="VASP" alt="VASP" width="50" height="40"/>&nbsp;
-  <img src="https://fhi-aims.org/uploads/images/FHI-aims-logo.png" title="FHI-AIMS" alt="FHI-AIMS" width="50" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
-  <img src="https://ma.issp.u-tokyo.ac.jp/wp-content/uploads/sites/3/2018/02/image_mini-2-3.png" title="VESTA" alt="VESTA" width="40" height="40"/>&nbsp;
-</div>
+---
+
+### 🖥️ Featured projects
+
+| Repo | Description |
+|---|---|
+| [heterostructures-TiO2-MXene](https://github.com/NestorGRG/heterostructures-TiO2-MXene) | Builds 0D/2D TiO₂ nanoparticle–MXene heterostructure POSCARs for DFT calculations |
+| [Density-of-States-for-FHI-AIMS](https://github.com/NestorGRG/Density-of-States-for-FHI-AIMS) | Plots atom/orbital-projected DOS from FHI-AIMS output |
+| [Density-of-States-for-VASP](https://github.com/NestorGRG/Density-of-States-for-VASP) | Plots atom/orbital-projected DOS from VASP output |
+
+---
+
+### 🛠️ Languages & Computational Tools
+
+[![Python](https://github.com/devicons/devicon/raw/master/icons/python/python-original.svg)](https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg)
+[![Bash](https://github.com/devicons/devicon/raw/master/icons/bash/bash-original.svg)](https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg)
+[![Linux](https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg)](https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg)
+[![Fortran](https://camo.githubusercontent.com/d73fc304b06c32bbf18dce7ac8fa735726db3d8a0731fdb6c34b5713ece123ac/68747470733a2f2f66756c6c666f726d732e636f6d2f696d616765732f696d6167652f466f727472616e5f323833382e706e67)](https://camo.githubusercontent.com/d73fc304b06c32bbf18dce7ac8fa735726db3d8a0731fdb6c34b5713ece123ac/68747470733a2f2f66756c6c666f726d732e636f6d2f696d616765732f696d6167652f466f727472616e5f323833382e706e67)
+[![VSCode](https://github.com/devicons/devicon/raw/master/icons/vscode/vscode-original.svg)](https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg)
+
+**Materials modelling & DFT codes:** VASP · FHI-AIMS · Gaussian
+**Python stack:** ASE · Pandas · Matplotlib
+**Visualization:** VESTA · Avogadro
+
+---
+
+### 🔗 Connect
+
+[![ORCID](https://camo.githubusercontent.com/3514f34cca1dd08ca5897155e516c4dc6182d31ebdc4160d0ab746cb9ebb77ea/68747470733a2f2f6f726369642e6f72672f6173736574732f766563746f72732f6f726369642e6c6f676f2e69636f6e2e737667)](https://orcid.org/0000-0003-3129-3697)
+[![Google Scholar](https://camo.githubusercontent.com/ba795209272f396830ef2fb15f6835ad236466dffa2bb6fc17223d070b8ee033/68747470733a2f2f6d612e697373702e752d746f6b796f2e61632e6a702f77702d636f6e74656e742f75706c6f6164732f73697465732f332f323031382f30322f696d6167655f6d696e692d322d332e706e67)](https://scholar.google.com/citations?user=rllMbLEAAAAJ&hl=en)
+[![Twitter](https://camo.githubusercontent.com/b0a50e8d71e08b91528f44700b9e1bed01de446c5b945cfe794b0ea02d2793af/68747470733a2f2f7777772e66726565706e676c6f676f732e636f6d2f75706c6f6164732f747769747465722d6c6f676f2d706e672f747769747465722d6c6f676f2d766563746f722d706e672d636c69706172742d312e706e67)](https://twitter.com/ngarciaromeral)
+
+*(Nota: el badge de LinkedIn se ha quitado porque la URL con acentos no resolvía bien — pásame tu slug correcto de LinkedIn, ej. `linkedin.com/in/nestor-garcia-romeral-XXXXXXX`, y lo añado.)*
