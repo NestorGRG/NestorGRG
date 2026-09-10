@@ -28,19 +28,6 @@ I develop and apply first-principles DFT and Machine Learning methods to underst
 
 ---
 
-### 📂 Projects
-
-| Project | Description |
-|---------|-------------|
-| [heterostructures-TiO2-MXene](https://github.com/NestorGRG/heterostructures-TiO2-MXene) | Program to generate heterostructure POSCARs from TiO2 nanoparticles and MXene slabs |
-| [Density-of-States-for-VASP](https://github.com/NestorGRG/Density-of-States-for-VASP) | Python program to plot the Density of States (DOS) from VASP outputs |
-| [Density-of-States-for-FHI-AIMS](https://github.com/NestorGRG/Density-of-States-for-FHI-AIMS) | Python program to plot the Density of States (DOS) from FHI-AIMS outputs |
-| [basissetcomparison](https://github.com/NestorGRG/basissetcomparison) | Visualizes and compares atomic orbital basis sets (STO, GTO, NAO, PW) |
-| [lattices](https://github.com/NestorGRG/lattices) | 3D visualization of Bravais lattice types: SC, BCC, FCC, and HCP |
-| [qtaim](https://github.com/NestorGRG/qtaim) | Visualizes Bader's QTAIM: electron density, atomic basins, and zero-flux surfaces |
-
----
-
 ### 🔗 Connect
 
 <a href="https://orcid.org/0000-0003-3129-3697"><img src="https://camo.githubusercontent.com/3514f34cca1dd08ca5897155e516c4dc6182d31ebdc4160d0ab746cb9ebb77ea/68747470733a2f2f6f726369642e6f72672f6173736574732f766563746f72732f6f726369642e6c6f676f2e69636f6e2e737667" height="30" alt="ORCID" /></a>
